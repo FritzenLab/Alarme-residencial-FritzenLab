@@ -632,7 +632,7 @@ Wire Wire Line
 	9350 1550 10050 1550
 Wire Wire Line
 	4900 3950 4500 3950
-Text GLabel 4500 3050 0    50   Input ~ 0
+Text GLabel 4500 3850 0    50   Input ~ 0
 Zona1
 Text GLabel 4500 3150 0    50   Input ~ 0
 Zona2
@@ -670,9 +670,7 @@ Text GLabel 4500 3450 0    50   Input ~ 0
 D2_LCD
 Text GLabel 4500 3550 0    50   Input ~ 0
 D3_LCD
-Wire Wire Line
-	5900 3650 6300 3650
-Text GLabel 6300 3650 2    50   Input ~ 0
+Text GLabel 4500 3050 0    50   Input ~ 0
 Radio
 $Comp
 L Connector:Conn_01x04_Female J6a1
